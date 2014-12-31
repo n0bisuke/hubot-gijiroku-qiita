@@ -1,0 +1,23 @@
+{
+  "name": "hubot-gijiroku-qiita",
+  "version": "0.0.1",
+  "description": "giriroku using qiita for hubot scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qiita",
+    "gijiroku"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:n0bisuke/hubot-gijiroku-qiita.git"
+  },
+  "author": "n0bisuke",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.8.4",
+    "qiita-js": "^0.1.0"
+  }
+}
